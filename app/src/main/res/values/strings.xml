@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AI Dev Studio</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_project">Project</string>
+    <string name="nav_pdf">PDFs</string>
+    <string name="nav_progress">Pipeline</string>
+    <string name="nav_settings">Settings</string>
+    <string name="cd_hero_banner">AI Dev Studio neural compiler blueprint banner</string>
+    <string name="cd_create_project">Create new Android project workspace</string>
+    <string name="cd_import_pdf">Import PDF document</string>
+    <string name="cd_run_pipeline">Run 15-step AI developer pipeline</string>
+    <string name="cd_share_bundle">Share verified project bundle and report</string>
+</resources>

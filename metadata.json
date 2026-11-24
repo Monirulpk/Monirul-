@@ -1,0 +1,6 @@
+{
+  "name": "AI Dev Studio",
+  "description": "On-device AI Android Developer workspace with PDF requirement analysis, LiteRT-LM local brain, task planning, duplicate feature detection, code editor, static verifier, and project delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
